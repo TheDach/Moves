@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moves</string>
+    <string name="lable_review_date">Дата отзыва:</string>
+    <string name="item_favourite">Избранное</string>
+</resources>
